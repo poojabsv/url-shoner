@@ -30,6 +30,9 @@ ALLOWED_HOSTS = ['octrixshortener.herokuapp.com']
 
 # Application definition
 
+
+code - direction
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
